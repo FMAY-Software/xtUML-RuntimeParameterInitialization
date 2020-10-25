@@ -1,0 +1,13 @@
+{
+  "name": "xtUML: Runtime Parameter Initialization",
+  "description": "Provide support for runtime parameter value initializations upon user execution of parameterized elements.",
+  "deliverables": [
+    {
+      "target": "None",
+      "url": "None"
+    }
+  ],
+  "demonstration": {
+    "url": "https://youtu.be/G-vg5m--i3s"
+  }
+}
