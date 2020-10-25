@@ -34,7 +34,7 @@ February 28th of 2018
 
 ## Pledging
 
-The pledge goal is 12,000 USD.
+The pledge goal is ? USD.
 
 ### Pledge to this project
 Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.  
