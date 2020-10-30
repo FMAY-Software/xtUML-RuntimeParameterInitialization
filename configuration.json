@@ -1,4 +1,10 @@
 {
+  "owner": {
+    "first_name":"Travis",
+    "last_name":"London",
+    "email":"travis.london@fmay.net",
+    "phone": "5203730727"
+  },
   "name": "xtUML: Runtime Parameter Initialization",
   "description": "Provide support for runtime parameter value initializations upon user execution of parameterized elements.",
   "deliverables": [
