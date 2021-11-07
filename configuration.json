@@ -1,6 +1,6 @@
 {
   "owner": {
-    "first_name":"Travis",
+    "first_name":"FMAY-Incubator",
     "last_name":"London",
     "email":"travis.london@fmay.net",
     "phone": "5203730727"
@@ -13,8 +13,6 @@
       "url": "None"
     }
   ],
-  "pledge_target": "12500",
-  "pledged": "0",
   "demonstration": {
     "url": "https://youtu.be/G-vg5m--i3s"
   }
